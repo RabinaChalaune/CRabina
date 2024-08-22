@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CRabina\bin\Debug\net8.0\CRabina.exe
+C:\Users\User\Documents\CRabina\bin\Debug\net8.0\CRabina.deps.json
+C:\Users\User\Documents\CRabina\bin\Debug\net8.0\CRabina.runtimeconfig.json
+C:\Users\User\Documents\CRabina\bin\Debug\net8.0\CRabina.dll
+C:\Users\User\Documents\CRabina\bin\Debug\net8.0\CRabina.pdb
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.AssemblyInfo.cs
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.dll
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\refint\CRabina.dll
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.pdb
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\CRabina.genruntimeconfig.cache
+C:\Users\User\Documents\CRabina\obj\Debug\net8.0\ref\CRabina.dll
