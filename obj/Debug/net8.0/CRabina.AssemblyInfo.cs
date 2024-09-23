@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRabina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60c76b1f263b862aa09ed640a1ac5a4bd430988e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRabina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRabina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

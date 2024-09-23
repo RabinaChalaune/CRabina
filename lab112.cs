@@ -47,5 +47,7 @@ namespace CRabina
             Console.WriteLine($"Maximum Marks: {maxMark}");
             Console.WriteLine($"Average Marks: {averageMark:F2}");
         }
-    }*/
+    }
+}
 
+*/
